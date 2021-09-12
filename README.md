@@ -1,3 +1,3 @@
 # Página do instagram recriada
 
-Recriando a página inicial do instagram com htm5 e css3
+Recriando a página inicial do instagram com html5 e css3
